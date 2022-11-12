@@ -23,15 +23,15 @@
                 width: $base-font-size * 6;
                 height: $base-font-size * 6;
                 border-radius: 100%;
-                line-height: $base-font-size * 4.5;
+                line-height: $base-font-size * 6;
                 background-color: $color-primary;
                 margin: $margin-none auto $baseline;
                     
                 }    
-            .fa-2x::before {
-                position: relative;
-                top: 0.44em;
-            }
+            // .fa-2x::before {
+            //     position: relative;
+            //     top: 0.44em;
+            // }
             }
         }
     }
